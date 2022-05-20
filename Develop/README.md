@@ -31,6 +31,10 @@ GNU_GPLv3
 ## Link to deployed Heroku site
 https://secure-taiga-31332.herokuapp.com/notes
 
+## Screenshot
+<img width="1421" alt="Screen Shot 2022-05-20 at 12 00 49 PM" src="https://user-images.githubusercontent.com/96667529/169567615-c3ce7363-2395-43f5-b90e-4e7a0835d94f.png">
+
+
 ## Questions
 Here you will find my email address, where I can be reached, as well as my GitHub user name.
 cap8095@gmail.com <br>
