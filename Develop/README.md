@@ -6,6 +6,7 @@
 * [Usage](#usage)
 * [Tests](#tests)
 * [License](#license)
+* [Link](*link)
 * [Installation](#installation)
 * [Contribution](#contribution)
 * [Questions](#questions)
@@ -26,6 +27,9 @@ You can test the app just like you would test anything else.
 ## License
 ![Badge](https://img.shields.io/badge/license-GNU_GPLv3-blue.svg)
 GNU_GPLv3
+
+## Link to deployed Heroku site
+https://secure-taiga-31332.herokuapp.com/notes
 
 ## Questions
 Here you will find my email address, where I can be reached, as well as my GitHub user name.
